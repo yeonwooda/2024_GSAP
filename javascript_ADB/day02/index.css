@@ -1,0 +1,17 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+
+div {
+  color: white;
+  font-size: 60px;
+  width: fit-content;
+  height: fit-content;
+}
